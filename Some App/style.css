@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #3e0460;
+}
+
+
+h1 {
+    color: #ffffff;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+#list-app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #8a2be2;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 600px;
+    margin: 80px auto 0;
+    padding: 30px;
+
+}
+
+#simple-quiz {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #53b607;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 600px;
+    margin: 80px auto 0;
+    padding: 30px;
+}
+
+#notes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d303ef;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 600px;
+    margin: 80px auto 0;
+    padding: 30px;
+}
+
+#Age-Calculator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #90bafc;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 600px;
+    margin: 80px auto 0;
+    padding: 30px;
+}
+
+h2 a {
+    text-decoration: none;
+    color: #ffffff;
+}
